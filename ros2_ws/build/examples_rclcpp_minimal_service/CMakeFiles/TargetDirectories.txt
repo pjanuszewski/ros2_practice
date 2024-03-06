@@ -1,0 +1,10 @@
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/examples_rclcpp_minimal_service/CMakeFiles/uninstall.dir
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/examples_rclcpp_minimal_service/CMakeFiles/examples_rclcpp_minimal_service_uninstall.dir
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/examples_rclcpp_minimal_service/CMakeFiles/service_main.dir
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/examples_rclcpp_minimal_service/CMakeFiles/test.dir
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/examples_rclcpp_minimal_service/CMakeFiles/edit_cache.dir
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/examples_rclcpp_minimal_service/CMakeFiles/rebuild_cache.dir
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/examples_rclcpp_minimal_service/CMakeFiles/list_install_components.dir
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/examples_rclcpp_minimal_service/CMakeFiles/install.dir
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/examples_rclcpp_minimal_service/CMakeFiles/install/local.dir
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/examples_rclcpp_minimal_service/CMakeFiles/install/strip.dir

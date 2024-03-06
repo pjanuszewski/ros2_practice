@@ -1,0 +1,8 @@
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:action/RotateAbsolute.idl
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:msg/Color.idl
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:msg/Pose.idl
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/Kill.idl
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/SetPen.idl
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/Spawn.idl
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportAbsolute.idl
+/home/pawelj/Git_repos/piwaniuk_pjanuszewski/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportRelative.idl
